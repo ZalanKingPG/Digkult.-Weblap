@@ -1,0 +1,47 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2e4a62;
+}
+
+img.bal {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+}
+
+img.jobb {
+    float: right;
+    margin-left: 20px;
+    width: 200px;
+}
+
+ul, ol {
+    margin-left: 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #444;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+footer {
+    margin-top: 40px;
+    font-weight: bold;
+    color: #555;
+}
